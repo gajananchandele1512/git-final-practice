@@ -1,4 +1,6 @@
 Initial version
 Login feature added
 Profile feature added
+feature-help+Feature: Help section added
 Feature: Feedback module added
+
